@@ -1,0 +1,15 @@
+C:\CarpetaCsharp\ListasCsharp\ListasCsharp\bin\Debug\net6.0\ListasCsharp.exe
+C:\CarpetaCsharp\ListasCsharp\ListasCsharp\bin\Debug\net6.0\ListasCsharp.deps.json
+C:\CarpetaCsharp\ListasCsharp\ListasCsharp\bin\Debug\net6.0\ListasCsharp.runtimeconfig.json
+C:\CarpetaCsharp\ListasCsharp\ListasCsharp\bin\Debug\net6.0\ListasCsharp.dll
+C:\CarpetaCsharp\ListasCsharp\ListasCsharp\bin\Debug\net6.0\ListasCsharp.pdb
+C:\CarpetaCsharp\ListasCsharp\ListasCsharp\obj\Debug\net6.0\ListasCsharp.csproj.AssemblyReference.cache
+C:\CarpetaCsharp\ListasCsharp\ListasCsharp\obj\Debug\net6.0\ListasCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CarpetaCsharp\ListasCsharp\ListasCsharp\obj\Debug\net6.0\ListasCsharp.AssemblyInfoInputs.cache
+C:\CarpetaCsharp\ListasCsharp\ListasCsharp\obj\Debug\net6.0\ListasCsharp.AssemblyInfo.cs
+C:\CarpetaCsharp\ListasCsharp\ListasCsharp\obj\Debug\net6.0\ListasCsharp.csproj.CoreCompileInputs.cache
+C:\CarpetaCsharp\ListasCsharp\ListasCsharp\obj\Debug\net6.0\ListasCsharp.dll
+C:\CarpetaCsharp\ListasCsharp\ListasCsharp\obj\Debug\net6.0\refint\ListasCsharp.dll
+C:\CarpetaCsharp\ListasCsharp\ListasCsharp\obj\Debug\net6.0\ListasCsharp.pdb
+C:\CarpetaCsharp\ListasCsharp\ListasCsharp\obj\Debug\net6.0\ListasCsharp.genruntimeconfig.cache
+C:\CarpetaCsharp\ListasCsharp\ListasCsharp\obj\Debug\net6.0\ref\ListasCsharp.dll
